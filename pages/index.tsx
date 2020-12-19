@@ -155,7 +155,7 @@ const Index: React.FunctionComponent = () => {
   };
   return (
     <div>
-      <div className="container my-auto mx-auto flex flex-column flex-no-wrap rounded-md bg-white">
+      <div className="container my-10 mx-auto flex flex-column justify-center flex-no-wrap rounded-md bg-white">
         <div className="flex flex-row flex-no-wrap">
           <Card className="flex w-200 flex-column ">
             <form
